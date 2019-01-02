@@ -25,3 +25,13 @@ The `env_example.sh` contains a template script that you can paste to Ubuntu edi
 Python 3.6 has been used. In Ubuntu 18 python 3.6 should be pre-installed. Try it with command `python3 -V`.
 
 Install virtual environment by `pip3 install virtualenv`. Create a new virtualenv by `virtualenv venv`.
+
+## Possible improvements
+* Add 2% compound inflation line to charts
+* Add index line to charts
+* Take into account that only full shares can be purchased
+* Make a sliding analysis since the beginning with 15 years investment time
+* Calculate different strategies
+  * Only buy after 5 months of down hill
+  * Use machine learning to determine best buy and sell strategies
+* Better documentation for the notebook
