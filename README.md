@@ -1,7 +1,7 @@
 # Economical Cycle Timing
 If you invest monthly to index based world wide ETF, does it matter what is the stage of economical cycle when you start?
 
-Check out the `economical-cycle-timing.ipynb` for the data analysis.
+The full data analysis is in the [economical-cycle-timing](economical-cycle-timing.ipynb) notebook.
 
 ## Related blog post
 Here is [the original blog in Finnish](https://mikaelahonen.com/fi/blog/kannattaako-saannollinen-sijoittaminen-aloittaa-laskusuhdanteen-lahestyessa-data-analyysi/).
