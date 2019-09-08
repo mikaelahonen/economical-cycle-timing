@@ -4,7 +4,7 @@ If you invest monthly to index based world wide ETF, does it matter what is the 
 The full data analysis is in the [economical-cycle-timing](economical-cycle-timing.ipynb) notebook.
 
 ## Related blog post
-Here is [the original blog in Finnish](https://mikaelahonen.com/fi/blog/kannattaako-saannollinen-sijoittaminen-aloittaa-laskusuhdanteen-lahestyessa-data-analyysi/).
+Here is the link to the original blog post [in English](https://mikaelahonen.com/en/blog/should-you-start-investing-if-a-depression-is-coming-data-analysis/) and [in Finnish](https://mikaelahonen.com/fi/blog/kannattaako-saannollinen-sijoittaminen-aloittaa-laskusuhdanteen-lahestyessa-data-analyysi/).
 
 ## Summary of results
 Here is a summary of results in video. It shows 10 year cumulative profits by different starting year for a monthly investor.
